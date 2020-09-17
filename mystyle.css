@@ -8,7 +8,7 @@ footer {
     background-color: rgb(65, 7, 62);
     color: rgb(147, 192, 157);
     text-align: center;
-    padding: 1.5rem;
+    padding: 1.5em;
 }
 
  footer a {
@@ -20,7 +20,7 @@ h2,
 nav,
 main,
 footer {
-    margin: 1.25rem auto;
+    margin: 1.25em auto;
     max-width: 760px;
     
 }
