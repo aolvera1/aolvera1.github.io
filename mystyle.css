@@ -6,13 +6,13 @@ body {
 footer {
     text-align: center;
     background-color: rgb(65, 7, 62);
-    color: #fff;
+    color: rgb(147, 192, 157);
     text-align: center;
     padding: 1.5rem;
 }
 
  footer a {
-    color: rgb(125, 216, 228);
+    color: rgb(113, 20, 219);
 }
 
 header,
